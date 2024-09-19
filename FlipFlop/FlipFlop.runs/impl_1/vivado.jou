@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Thu Sep 19 13:03:48 2024
+# Process ID: 4236
+# Current directory: E:/04. Cuarto Ciclo/05. Arquitectura de Computadoras/07. Workspace/FlipFlop/FlipFlop.runs/impl_1
+# Command line: vivado.exe -log ff.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source ff.tcl -notrace
+# Log file: E:/04. Cuarto Ciclo/05. Arquitectura de Computadoras/07. Workspace/FlipFlop/FlipFlop.runs/impl_1/ff.vdi
+# Journal file: E:/04. Cuarto Ciclo/05. Arquitectura de Computadoras/07. Workspace/FlipFlop/FlipFlop.runs/impl_1\vivado.jou
+# Running On        :LAPTOP-2GUHU0UH
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :22631
+# Processor Detail  :AMD Ryzen 7 6800H with Radeon Graphics         
+# CPU Frequency     :3194 MHz
+# CPU Physical cores:8
+# CPU Logical cores :16
+# Host memory       :7781 MB
+# Swap memory       :9126 MB
+# Total Virtual     :16908 MB
+# Available Virtual :4029 MB
+#-----------------------------------------------------------
+source ff.tcl -notrace
